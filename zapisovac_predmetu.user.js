@@ -18,7 +18,7 @@ function zapis(kod_predmetu) {
 
 // ===============================================================================
 // zde do hranate zavorky vypsat kody predmetu v uvozovkach, oddelene carkou
-var predmety = ["RDIK0101", "APS300387"];
+var predmety = ["APS300404", "APS300331", "APS300403"];
 
 // pak je nutnost pred zapisem byt prihlasen v SIS...
 // a v ten pravy cas kdekoliv zmacknout MEZERNIK pro zapis vsech predmetu, nebo klávesy +, ě, š, č (čísla 1-4) pro zapis n-teho predmetu
